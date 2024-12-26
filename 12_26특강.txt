@@ -1,0 +1,5 @@
+api키를 이용해서 openai를 사용하는 방법을 직접 구현해보았다.
+
+https://colab.research.google.com/drive/1kYQNfe8xICr8jJHfkqzW8CrujwnDSQam#scrollTo=60wRbZpHSe_l
+
+https://colab.research.google.com/drive/16XuVZhWeW5VbxvPL-tyiNiQmVyZTw8V9#scrollTo=_j7mSPOCLjAW
