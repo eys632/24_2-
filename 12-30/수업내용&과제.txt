@@ -10,5 +10,5 @@ https://colab.research.google.com/drive/19B1Te6d1llwS5gmfNQN56shXkOgUWyNe#scroll
 분할하는거 (못따라갔음)
 https://colab.research.google.com/drive/1jAZvzM9O_QERzL4Ha9WL8geqeDN_JLg4#scrollTo=h7gLzCXRVxdE
 
-다양한 언어의 코드들 분할하는거 (못따라갔음)
+다양한 언어의 코드들 분할하는거 (못따라갔음) 과제 제출함 241230_4_이연승
 https://colab.research.google.com/drive/1WaB0IveV-jhGCdjES_-RkdipodG6glKr#scrollTo=Bqi1BKTIacsR
