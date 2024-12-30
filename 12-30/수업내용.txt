@@ -1,2 +1,4 @@
 https://wikidocs.net/234002 이 페이지를 따라서 수업
-tokentextsplitter
+
+https://colab.research.google.com/drive/13Y-fDBc8l92A3ZSf8ZMbs3WeDeHk_H0N#scrollTo=sxUm_D3oL_B-
+코랩 링크
